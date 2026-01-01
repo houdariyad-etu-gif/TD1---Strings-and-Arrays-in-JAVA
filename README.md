@@ -66,5 +66,4 @@ Count occurrences of each letter in a string without distinguishing uppercase an
 - Displayed only letters appearing at least once.
 
 **Execution screenshot:**  
-*(Add `ex4.jpg` here if you have it)*  
 ![Exercise 4](screenshots/ex_4.jpg)

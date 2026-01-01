@@ -67,4 +67,4 @@ Count occurrences of each letter in a string without distinguishing uppercase an
 
 **Execution screenshot:**  
 *(Add `ex4.jpg` here if you have it)*  
-![Exercise 4](screenshots/ex4.jpg)
+![Exercise 4](screenshots/ex_4.jpg)
